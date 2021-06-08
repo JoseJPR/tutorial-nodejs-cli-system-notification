@@ -1,0 +1,27 @@
+{
+  "name": "tutorial-nodejs-cli-system-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "lint": "node_modules/.bin/eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "enquirer": "^2.3.6",
+    "jimp": "^0.16.1",
+    "node-notifier": "^10.0.0",
+    "open": "^8.2.0",
+    "pino": "^6.11.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
