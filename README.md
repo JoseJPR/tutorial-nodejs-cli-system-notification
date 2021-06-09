@@ -26,7 +26,7 @@ With this repository you will learn which libraries to use and how, in order to 
 
 Imagine that you need to develop a CLI Application with Node.js that executes one or more than one task and that takes time, several minutes. You could notify the user when these tasks are finished and that in this way they do not have to be checking the CLI from time to time.
 
-[NPM Node Notifier](https://www.npmjs.com/package/node-notifier)
+[NPM Node Notifier](https://www.npmjs.com/package/node-notifier) \
 [NPM Jimp](https://www.npmjs.com/package/jimp)
 
 ## 📹 Video Demo
